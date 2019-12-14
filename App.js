@@ -203,7 +203,7 @@ export default class App extends Component {
           flexDirection: "row",
           flexWrap: 'wrap'
         }} >
-          <Text style={{ fontFamily: "sans-serif-light" }} > {this.profile.description} </Text>
+          <Text style={{ fontFamily: "sans-serif-light" }} >{this.profile.description}</Text>
         </View>
         <AppIndex />
         <FAB style={
