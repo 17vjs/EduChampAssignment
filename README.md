@@ -24,6 +24,7 @@ Assignment highlights the usage of [Flex Box](./App.js).
 * `react-native-paper` for Floating Action Button and Divider.[Find Usage](./App.js)
 * `react-native-gesture-handler` for ScrollView . [Find Usage](./src/screens)
 
+### Output
 ![alt text](./images/img1.png "Screenshot")
 ![alt text](./images/img2.png "Screenshot")
 ![alt text](./images/img3.png "Screenshot")
